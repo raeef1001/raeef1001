@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raeef. I'm a Web Developer who builds immersive and<br>user-friendly applications that users love.</h2>
+<h2 align="left">Hi 👋! My name is Rafee. I'm a Web Developer who builds immersive and<br>user-friendly applications that users love.</h2>
 
 ###
 
